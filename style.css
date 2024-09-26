@@ -1,0 +1,39 @@
+
+body {
+font-family: Arial, sans-serif;
+}
+
+header {
+background-color: #333;
+color: #fff;
+padding: 10px 0;
+text-align: center;
+}
+
+main {
+padding: 20px;
+}
+
+#image-container {
+display: flex;
+justify-content: space-around;
+align-items: center; /* Align items vertically */
+margin-bottom: 20px;
+}
+
+img {
+max-width: 200px; /* Limit the maximum width */
+height: auto; /* Let the height adjust proportionally */
+}
+
+#selection-container {
+text-align: center;
+}
+
+label {
+margin-right: 10px;
+}
+
+
+
+
